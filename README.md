@@ -1,2 +1,5 @@
 # Multispams
-Spamers
+cd Multispams
+sh multispams.sh
+
+Done 
